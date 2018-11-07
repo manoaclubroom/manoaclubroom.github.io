@@ -35,7 +35,7 @@
 $ meteor npm install
 ```
 
-4. run the system with:
+4. Run the system with:
 
 ```
 $ meteor npm run start
