@@ -1,6 +1,6 @@
 # Table of contents
 
-* [About Bowfolios](#about-manoclubroom)
+* [About ManoClubRoom](#about-manoclubroom)
 * [Installation](#installation)
 * [Application design](#application-design)
   * [Directory structure](#directory-structure)
