@@ -25,9 +25,9 @@
 # About ManoaClubRoom 
 
 # Installation
-1. [install Meteor](https://www.meteor.com/install).
+1. [Install Meteor](https://www.meteor.com/install).
 
-2. [download a copy of BowFolios](https://github.com/bowfolios/bowfolios/archive/master.zip), or clone it using git.
+2. [Download a copy of BowFolios](https://github.com/bowfolios/bowfolios/archive/master.zip), or clone it using git.
   
 3. cd into the app/ directory and install libraries with:
 
