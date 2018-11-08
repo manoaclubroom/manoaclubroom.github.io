@@ -30,8 +30,11 @@ The Manoa Club Room application will provide a centralized directory for UH Mano
 # About the Team
 
 Bailey Borengasser
+
 Julie Chai
+
 Alexander Duong
+
 Edward Yi
 
 # Installation
