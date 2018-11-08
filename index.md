@@ -87,6 +87,11 @@ The application should appear at [http://localhost:3000](http://localhost:3000).
 # Development History
 
 ## Milestone 1
+
+Mockup landing page sketch:
+
+<img width="300px" src="images/landing.png"/>
+
 Mockup user home page sketch:
 
 <img width="300px" src="images/user_home.JPG"/>
@@ -94,6 +99,14 @@ Mockup user home page sketch:
 Mockup admin home page sketch:
 
 <img width="300px" src="images/admin_home.JPG"/>
+
+Mockup club admin home page sketch:
+
+<img width="300px" src="images/club_admin.JPG"/>
+
+Mockup browse club page sketch:
+
+<img width="300px" src="images/browse.png"/>
 
 ## Milestone 2
 
