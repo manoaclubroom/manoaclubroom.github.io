@@ -1,6 +1,7 @@
 # Table of contents
 
 * [About ManoaClubRoom](#about-manoa-club-room)
+* [About the Team](#about-the-team)
 * [Installation](#installation)
 * [Application design](#application-design)
   * [Directory structure](#directory-structure)
@@ -25,6 +26,13 @@
 # About Manoa Club Room 
 
 The Manoa Club Room application will provide a centralized directory for UH Manoa student clubs. UH Manoa students can login to browse a well organized directory of all current student clubs, with brief descriptions, meeting times and locations, URLs to their websites (if any), contact information for officers, and a few select photos.
+
+# About the Team
+
+Bailey Borengasser
+Julie Chai
+Alexander Duong
+Edward Yi
 
 # Installation
 1. [Install Meteor](https://www.meteor.com/install).
