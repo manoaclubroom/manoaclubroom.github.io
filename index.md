@@ -76,6 +76,13 @@ The application should appear at [http://localhost:3000](http://localhost:3000).
 # Development History
 
 ## Milestone 1
+Mockup user home page sketch:
+
+![](images/user_home.png)
+
+Mockup admin home page sketch:
+
+![](images/admin_home.png)
 
 ## Milestone 2
 
