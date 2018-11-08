@@ -1,6 +1,6 @@
 # Table of contents
 
-* [About ManoClubRoom](#about-manoa-club-room)
+* [About ManoaClubRoom](#about-manoa-club-room)
 * [Installation](#installation)
 * [Application design](#application-design)
   * [Directory structure](#directory-structure)
