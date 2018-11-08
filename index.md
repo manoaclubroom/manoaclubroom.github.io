@@ -78,11 +78,11 @@ The application should appear at [http://localhost:3000](http://localhost:3000).
 ## Milestone 1
 Mockup user home page sketch:
 
-<img width="200px" src="images/user_home.png"/>
+<img width="200px" src="images/user_home.JPG"/>
 
 Mockup admin home page sketch:
 
-<img width="200px" src="images/admin_home.png"/>
+<img width="200px" src="images/admin_home.JPG"/>
 
 ## Milestone 2
 
