@@ -37,6 +37,8 @@ Alexander Duong
 
 Edward Yi
 
+Xue Gong (Kristi)
+
 # Installation
 1. [Install Meteor](https://www.meteor.com/install).
 
