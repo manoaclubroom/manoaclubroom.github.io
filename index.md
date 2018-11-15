@@ -94,7 +94,6 @@ Mockup landing page sketch:
 
 <img width="300px" src="images/landing.png"/>
 
-
 Mockup user home page sketch:
 
 <img width="300px" src="images/user_home.JPG"/>
@@ -115,9 +114,17 @@ landing page:
 
 <img width="600px" src="images/landing_deploy.jpg"/>
 
+user home page:
+
+<img width="600px" src="images/user_home_page.png"/>
+
 search club page:
 
 <img width="600px" src="images/search_club_deploy.jpg"/>
+
+admin home page:
+
+<img width="600px" src="images/admin_home_page.png"/>
 
 
 ## Milestone 2
