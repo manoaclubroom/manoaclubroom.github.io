@@ -94,6 +94,10 @@ Mockup landing page sketch:
 
 <img width="300px" src="images/landing.png"/>
 
+landing page:
+
+<img width="300px" src="images/landing_deploy.jpg"/>
+
 Mockup user home page sketch:
 
 <img width="300px" src="images/user_home.JPG"/>
