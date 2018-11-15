@@ -122,6 +122,10 @@ search club page:
 
 <img width="600px" src="images/search_club_deploy.jpg"/>
 
+club admin home page:
+
+<img width="600px" src="images/club_admin_home_page.png"/>
+
 admin home page:
 
 <img width="600px" src="images/admin_home_page.png"/>
