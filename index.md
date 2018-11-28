@@ -18,14 +18,10 @@
   * [Milestone 1](#milestone-1-mockup-development)
   * [Milestone 2](#milestone-2-data-model-development)
   * [Milestone 3](#milestone-3-connect-ui-to-data-model)
-  * [Milestone 4](#milestone-4-authentication)
-  * [Milestone 5](#milestone-5-administration)
-* [Walkthrough videos](#walkthrough-videos)
-* [JSDocs](/jsdocs)
 
 # About Manoa Club Room 
 
-link: http://manoaclubroom.meteorapp.com/#/
+link: [http://manoaclubroom.meteorapp.com/#/](http://manoaclubroom.meteorapp.com/#/)
 
 The Manoa Club Room application will provide a centralized directory for UH Manoa student clubs. UH Manoa students can login to browse a well organized directory of all current student clubs, with brief descriptions, meeting times and locations, URLs to their websites (if any), contact information for officers, and a few select photos.
 
@@ -63,6 +59,7 @@ The application should appear at [http://localhost:3000](http://localhost:3000).
 # Application Design
 
 ## Directory structure
+
 
 ## Import conventions
 
@@ -136,7 +133,3 @@ admin home page:
 ## Milestone 2
 
 ## Milestone 3
-
-## Milestone 4
-
-## Milestone 5
