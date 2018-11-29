@@ -1,6 +1,7 @@
 # Table of contents
 
 * [About ManoaClubRoom](#about-manoa-club-room)
+* [User Guide](#user-guide)
 * [The Team](#the-team)
 * [Installation](#installation)
   * [Data model](#data-model)
@@ -16,6 +17,12 @@
 link: [http://manoaclubroom.meteorapp.com/#/](http://manoaclubroom.meteorapp.com/#/)
 
 The Manoa Club Room application will provide a centralized directory for UH Manoa student clubs. UH Manoa students can login to browse a well organized directory of all current student clubs, with brief descriptions, meeting times and locations, URLs to their websites (if any), contact information for officers, and a few select photos.
+
+# User Guide
+
+All users can register/login, search for clubs by interests, and make and view their profile.
+Club admins can also edit their clubs.
+Super admins can also add clubs.
 
 # The Team
 
