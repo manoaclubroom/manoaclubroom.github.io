@@ -72,6 +72,7 @@ We are currently using Club and User as our Javascript data model. It uses the M
 ## CSS
 
 ## Routing
+Navigation of between pages is done using Router from React Router.
 
 ## Authentication
 
