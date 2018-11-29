@@ -15,7 +15,7 @@
   * [Configuration](#configuration)
   * [Quality Assurance](#quality-assurance)
 * [Development history](#development-history)
-  * [Milestone 1](#milestone-1-mockup-development)
+  * [Milestone 1: Mockup Devlopment](#milestone-1-mockup-development)
   * [Milestone 2](#milestone-2-data-model-development)
   * [Milestone 3](#milestone-3-connect-ui-to-data-model)
 
@@ -96,7 +96,9 @@ The application includes a .eslintrc file is used to define the coding style use
 
 # Development History
 
-## Milestone 1
+## Milestone 1: Mockup Development
+
+Our main goal for Milestone 1 was to complete mockup designs for our Manoa Club Room application. We used Semantic UI React within a Meteor application to get the process started. At this point in the Milestone only the front-end was implemented. You can see some of our designs in the pictures below.
 
 Mockup landing page sketch:
 
@@ -145,6 +147,3 @@ User profile page:
 
 ## Milestone 3
 
-
-
-## Milestone 3
