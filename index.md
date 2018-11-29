@@ -67,6 +67,7 @@ The application should appear at [http://localhost:3000](http://localhost:3000).
 
 
 ## Data model
+We are currently using Club and User as our Javascript data model. It uses the MongoDB collection that will export a variable that will provide access to the collection.
 
 ## CSS
 
