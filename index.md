@@ -16,7 +16,7 @@
   * [Quality Assurance](#quality-assurance)
 * [Development history](#development-history)
   * [Milestone 1: Mockup Devlopment](#milestone-1-mockup-development)
-  * [Milestone 2](#milestone-2-data-model-development)
+  * [Milestone 2: Functionality Implementation](#milestone-2-data-model-development)
   * [Milestone 3](#milestone-3-connect-ui-to-data-model)
 
 # About Manoa Club Room 
@@ -98,7 +98,7 @@ The application includes a .eslintrc file is used to define the coding style use
 
 ## Milestone 1: Mockup Development
 
-Our main goal for Milestone 1 was to complete mockup designs for our Manoa Club Room application. We used Semantic UI React within a Meteor application to get the process started. At this point in the Milestone only the front-end was implemented. You can see some of our designs in the pictures below.
+Our main goal for Milestone 1 was to complete mockup designs for our Manoa Club Room application. We used Semantic UI React within a Meteor application to get the process started. At this point in the Milestone only the front-end was implemented. You can see our designs in the pictures below.
 
 Mockup landing page sketch:
 
@@ -120,7 +120,9 @@ Mockup browse club page sketch:
 
 <img width="300px" src="images/browse.png"/>
 
-## Milestone 2
+## Milestone 2: Functionality Implementation
+
+In Milestone 2 we were able to implement basic functionality. With the default accounts we have made we are able to navigate to and from the pages below.
 
 Landing page:
 
