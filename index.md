@@ -5,7 +5,6 @@
 * [Installation](#installation)
   * [Data model](#data-model)
   * [Routing](#routing)
-  * [Authentication](#authentication)
   * [Authorization](#authorization)
 * [Development history](#development-history)
   * [Milestone 1: Mockup Devlopment](#milestone-1-mockup-development)
