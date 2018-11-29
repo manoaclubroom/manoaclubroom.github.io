@@ -120,7 +120,7 @@ Make user profile page:
 
 User profile page:
 
-<img width="500px" src="images/profile.jpg"/>
+<img width="500px" src="images/profile.png"/>
 
 
 ## Milestone 3
