@@ -9,7 +9,7 @@
 * [Development history](#development-history)
   * [Milestone 1: Mockup Devlopment](#milestone-1-mockup-development)
   * [Milestone 2: Functionality Implementation](#milestone-2-data-model-development)
-  * [Milestone 3](#milestone-3-connect-ui-to-data-model)
+  * [Milestone 3: Beyond The Basics](#milestone-3-connect-ui-to-data-model)
 
 # About Manoa Club Room 
 
