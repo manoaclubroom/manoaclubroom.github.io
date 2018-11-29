@@ -87,6 +87,7 @@ Authorization is done through role assignment to accounts, User having the lowes
 ## Quality Assurance
 
 ### ESLint
+The application includes a .eslintrc file is used to define the coding style used in this application.
 
 ### Data model unit tests
 
