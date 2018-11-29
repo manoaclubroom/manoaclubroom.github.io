@@ -3,17 +3,10 @@
 * [About ManoaClubRoom](#about-manoa-club-room)
 * [About the Team](#about-the-team)
 * [Installation](#installation)
-* [Application design](#application-design)
-  * [Directory structure](#directory-structure)
-  * [Import conventions](#import-conventions)
-  * [Naming conventions](#naming-conventions)
   * [Data model](#data-model)
-  * [CSS](#css)
   * [Routing](#routing)
   * [Authentication](#authentication)
   * [Authorization](#authorization)
-  * [Configuration](#configuration)
-  * [Quality Assurance](#quality-assurance)
 * [Development history](#development-history)
   * [Milestone 1: Mockup Devlopment](#milestone-1-mockup-development)
   * [Milestone 2: Functionality Implementation](#milestone-2-data-model-development)
@@ -25,7 +18,7 @@ link: [http://manoaclubroom.meteorapp.com/#/](http://manoaclubroom.meteorapp.com
 
 The Manoa Club Room application will provide a centralized directory for UH Manoa student clubs. UH Manoa students can login to browse a well organized directory of all current student clubs, with brief descriptions, meeting times and locations, URLs to their websites (if any), contact information for officers, and a few select photos.
 
-# About the Team
+#The Team
 
 Bailey Borengasser
 
@@ -56,25 +49,11 @@ $ meteor npm run start
 
 The application should appear at [http://localhost:3000](http://localhost:3000).
 
-# Application Design
-
-## Directory structure
-
-
-## Import conventions
-
-## Naming conventions
-
-
 ## Data model
 We are currently using Club and User as our Javascript data model. It uses the MongoDB collection that will export a variable that will provide access to the collection.
 
-## CSS
-
 ## Routing
 Navigation of between pages is done using Router from React Router.
-
-## Authentication
 
 ## Authorization
 The landing, sign in, and sign up are pages with public access, everyone can access it.
@@ -83,16 +62,8 @@ However, the other pages are not visible unless the user has a certain role or t
 
 Authorization is done through role assignment to accounts, User having the lowest access, Admin the highest, and Club Admin as the second highest. With roles, we also prevent items from appearing on the navbar and users that know the page address to reach these pages will be stopped by checks that make sure they are logged in and has access with their current role.
 
-## Configuration
-
-## Quality Assurance
-
 ### ESLint
 The application includes a .eslintrc file is used to define the coding style used in this application.
-
-### Data model unit tests
-
-### JSDoc
 
 # Development History
 
@@ -149,3 +120,4 @@ User profile page:
 
 ## Milestone 3
 
+Milestone 3 will begin on November 30th 2018
