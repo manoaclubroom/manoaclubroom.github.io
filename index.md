@@ -118,9 +118,8 @@ Mockup browse club page sketch:
 
 <img width="300px" src="images/browse.png"/>
 
-landing page:
+## Milestone 2
 
-<<<<<<< HEAD
 Landing page:
 
 <img width="300px" src="images/landing_deploy.jpg"/>
@@ -145,27 +144,7 @@ User profile page:
 
 
 ## Milestone 3
-=======
-<img width="600px" src="images/landing_deploy.jpg"/>
->>>>>>> c66e94633f436ac2b6eca51cb74625b3122c8723
-
-user home page:
-
-<img width="600px" src="images/user_home_page.png"/>
-
-search club page:
-
-<img width="600px" src="images/search_club_deploy.jpg"/>
-
-club admin home page:
-
-<img width="600px" src="images/club_admin_home_page.png"/>
-
-admin home page:
-
-<img width="600px" src="images/admin_home_page.png"/>
 
 
-## Milestone 2
 
 ## Milestone 3
