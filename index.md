@@ -122,23 +122,23 @@ Mockup browse club page sketch:
 
 Landing page:
 
-<img width="300px" src="images/landing_deploy.jpg"/>
+<img width="500px" src="images/landing_deploy.jpg"/>
 
 Edit club page:
 
-<img width="300px" src="images/edit_club_m2.jpg"/>
+<img width="500px" src="images/edit_club_m2.jpg"/>
 
 Add club page sketch:
 
-<img width="300px" src="images/add_club_m2.png"/>
+<img width="500px" src="images/add_club_m2.jpg"/>
 
 Admin home page:
 
-<img width="300px" src="images/admin_page_m2.jpg"/>
+<img width="500px" src="images/admin_page_m2.jpg"/>
 
 Club admin home page:
 
-<img width="300px" src="images/clubadmin_page_m2.jpg"/>
+<img width="500px" src="images/clubadmin_page_m2.jpg"/>
 
 User profile page:
 
