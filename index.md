@@ -65,6 +65,7 @@ The application should appear at [http://localhost:3000](http://localhost:3000).
 
 ## Naming conventions
 
+
 ## Data model
 
 ## CSS
@@ -74,6 +75,11 @@ The application should appear at [http://localhost:3000](http://localhost:3000).
 ## Authentication
 
 ## Authorization
+The landing, sign in, and sign up are pages with public access, everyone can access it.
+
+However, the other pages are not visible unless the user has a certain role or they are the owner, and they are logged into their account. This is to prevent any user from accessing any page that they want to, without permission, and keep a users profile to its registered account.
+
+Authorization is done through role assignment to accounts, User having the lowest access, Admin the highest, and Club Admin as the second highest. With roles, we also prevent items from appearing on the navbar and users that know the page address to reach these pages will be stopped by checks that make sure they are logged in and has access with their current role.
 
 ## Configuration
 
