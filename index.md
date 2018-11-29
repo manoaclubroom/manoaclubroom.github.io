@@ -102,7 +102,7 @@ Edit club page:
 
 <img width="500px" src="images/edit_club_m2.jpg"/>
 
-Add club page sketch:
+Add club page:
 
 <img width="500px" src="images/add_club_m2.jpg"/>
 
@@ -114,7 +114,13 @@ Club admin home page:
 
 <img width="500px" src="images/clubadmin_page_m2.jpg"/>
 
+Make user profile page:
+
+<img width="500px" src="images/make_profile.png"/>
+
 User profile page:
+
+<img width="500px" src="images/profile.jpg"/>
 
 
 ## Milestone 3
