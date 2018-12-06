@@ -167,8 +167,6 @@ User profile page:
 Community Feedback:
 
 1) "9.5/10! I like the Christmas stuff! Admin menu bar has a lot of stuff."
+
 2) "Request club is nice! The search function could be improved a little."
-3)
-4)
-5) 
 
