@@ -132,4 +132,6 @@ User profile page:
 
 ## Milestone 3
 
-Milestone 3 will begin on November 30th 2018
+Milestone 3 began on November 30th 2018
+
+The goal of Milestone 3 was to complete all functionality for our app. 
