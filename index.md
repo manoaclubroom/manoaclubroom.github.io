@@ -135,3 +135,32 @@ User profile page:
 Milestone 3 began on November 30th 2018
 
 The goal of Milestone 3 was to complete all functionality for our app. 
+
+Landing page with the Christmas theme
+
+<img width="500px" src="images/landing_m3.jpg"/>
+
+Edit club page:
+
+<img width="500px" src="images/edit_club_m3.jpg"/>
+
+Request club page:
+
+<img width="500px" src="images/request_club_m3.jpg"/>
+
+Signout page:
+
+<img width="500px" src="images/signout_m3.jpg"/>
+
+Interest club page:
+
+<img width="500px" src="images/interest_club_m3.jpg"/>
+
+Make user profile page:
+
+<img width="500px" src="images/make_profile.png"/>
+
+User profile page:
+
+<img width="500px" src="images/profile_m3.png"/>
+
