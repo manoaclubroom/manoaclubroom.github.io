@@ -166,7 +166,6 @@ User profile page:
 
 Community Feedback:
 
-1) "9.5/10! I like the Christmas stuff! Admin menu bar has a lot of stuff."
+1) "I like that the website is minimalistic in design yet sophisticated. The search function is nice because it lets you filter through all the clubs and look for the one you want."
 
-2) "Request club is nice! The search function could be improved a little."
 
