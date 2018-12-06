@@ -162,5 +162,5 @@ Make user profile page:
 
 User profile page:
 
-<img width="500px" src="images/profile_m3.png"/>
+<img width="500px" src="images/profile_m3.jpg"/>
 
