@@ -174,4 +174,5 @@ Community Feedback:
 
 1) "I like that the website is minimalistic in design yet sophisticated. The search function is nice because it lets you filter through all the clubs and look for the one you want."
 
+2) "I think the descriptions should be more brief and distinguishable from the background. Especially the left text is a little hard to read. Maybe, text should have shadows?"
 
