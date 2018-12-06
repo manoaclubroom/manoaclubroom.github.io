@@ -156,9 +156,9 @@ Interest club page:
 
 <img width="500px" src="images/interest_club_m3.jpg"/>
 
-Make user profile page:
+list clubs page:
 
-<img width="500px" src="images/make_profile.png"/>
+<img width="500px" src="images/list_club_m3.jpg"/>
 
 User profile page:
 
